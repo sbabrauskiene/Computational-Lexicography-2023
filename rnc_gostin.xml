@@ -578,7 +578,7 @@
 <w><ana lex="ваш" gr="A-PRO=f,sg,nom"></ana>в`аша</w>
 <w><ana lex="гостиница" gr="S,f,inan=sg,nom"></ana>гост`иница</w>
 <w><ana lex="называться" gr="V,ipf,intr,med=sg,praes,3p,indic"></ana>назыв`ается</w> «
-<w><ana lex="империал" gr="S,m,inan=sg,nom"></ana></w>»?</se>
+<w><ana lex="империал" gr="S,m,inan=sg,nom">Импери`ал</ana></w>»?</se>
 </p>
 <p><se>-- 
 <w><ana lex="ни" gr="PART"></ana>Ни</w> 
@@ -628,7 +628,7 @@
 </p>
 <p><se>-- 
 <w><ana lex="именно" gr="PART"></ana></w>
-<w><ana lex="поэтому" gr="ADV-PRO"></ana>по`этому</w>,
+<w><ana lex="поэтому" gr="ADV-PRO"></ana>По`этому</w>,
 <w><ana lex="сэр" gr="S,m,anim=sg,nom"></ana>сэр</w>!</se>
 <se>
 <w><ana lex="мы" gr="S-PRO,pl,1p=nom"></ana>Мы</w> 
